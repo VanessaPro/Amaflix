@@ -7,6 +7,21 @@ h1{
     color: #fc5203;
 }
 
+.categoria a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    cursor: pointer;
+}
+
+img:hover{
+    border: 5px solid #74e30c;
+    zoom: 100%;
+    border-radius: 20px;
+
+}
 footer{
     color: white;
     text-align: center;
