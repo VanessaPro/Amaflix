@@ -1,2 +1,2 @@
 # Amaflix
- Streaming com séries e filmes. 
+ Streaming com séries, desenhos e filmes. 
